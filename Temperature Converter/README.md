@@ -31,11 +31,11 @@ Fahrenheit     Celsius
 100            37.7778
 Concepts Practiced
 
-## This project practices basic C++ concepts such as:
+## This project practices basic C++ concepts:
 
-Arrays
-Loops
-User input
-Output formatting
+--Arrays
+--Loops
+--User input
+--Output formatting
 Basic math calculations
 Fahrenheit to Celsius conversion
