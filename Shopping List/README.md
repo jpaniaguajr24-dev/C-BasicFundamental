@@ -12,6 +12,18 @@ The user can type as many shopping items as they want. When they are finished, t
 - Keeps asking for items until the user types `done`
 - Displays the final shopping list
 
+## Concepts Practiced
+
+This project practices basic C++ concepts such as:
+
+- Vectors
+- Strings
+- While loops
+- For loops
+- User input
+- Displaying output
+- Using `getline()`
+
 ## Example
 
 ```text
