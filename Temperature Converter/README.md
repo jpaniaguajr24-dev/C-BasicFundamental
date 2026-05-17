@@ -13,11 +13,10 @@ The program asks the user to enter 7 Fahrenheit temperatures. It stores those te
 
 ## Formula Used
 
-```cpp
 Celsius = (Fahrenheit - 32) * 5 / 9
 
 ## Example Output
-```cpp
+
 Welcome to the temperature converter
 
 Enter temperature in Fahrenheit:
