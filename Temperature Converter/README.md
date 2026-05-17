@@ -15,3 +15,28 @@ The program asks the user to enter 7 Fahrenheit temperatures. It stores those te
 
 ```cpp
 Celsius = (Fahrenheit - 32) * 5 / 9
+
+## Example Output
+```cpp
+Welcome to the temperature converter
+
+Enter temperature in Fahrenheit:
+
+Enter temperature in Fahrenheit:
+
+Enter temperature in Fahrenheit:
+
+Fahrenheit     Celsius
+32             0
+68             20
+100            37.7778
+Concepts Practiced
+
+## This project practices basic C++ concepts such as:
+
+Arrays
+Loops
+User input
+Output formatting
+Basic math calculations
+Fahrenheit to Celsius conversion
