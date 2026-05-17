@@ -37,5 +37,5 @@ Concepts Practiced
 --Loops
 --User input
 --Output formatting
-Basic math calculations
-Fahrenheit to Celsius conversion
+--Basic math calculations
+--Fahrenheit to Celsius conversion
