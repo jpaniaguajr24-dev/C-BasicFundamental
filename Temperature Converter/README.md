@@ -33,9 +33,9 @@ Concepts Practiced
 
 ## This project practices basic C++ concepts:
 
---Arrays
---Loops
---User input
---Output formatting
---Basic math calculations
---Fahrenheit to Celsius conversion
+-Arrays
+-Loops
+-User input
+-Output formatting
+-Basic math calculations
+-Fahrenheit to Celsius conversion
